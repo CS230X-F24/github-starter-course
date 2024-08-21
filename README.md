@@ -39,7 +39,7 @@ To use Git, developers use specific commands to copy, create, change, and combin
 
 ### Example to update a remote repository
 
-If you have an updated file (ex: README.md) then you need to add it to the staging area. The staging area is where you put files before you commit them. 
+If you have an updated local file (ex: README.md), then you first need to add it to the staging area. The staging area is where you put files before you commit them. 
 
 `git add README.md`
 
