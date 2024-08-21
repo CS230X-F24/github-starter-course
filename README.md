@@ -1,8 +1,8 @@
-# :wave: The Basics of GitHub 
+# :wave: The Basics of Git and GitHub 
 
-## 🤓 Course overview and learning outcomes 
+## 🤓 Course overview
 
-The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
+This tutorial has been adapted by Catherine Delcourt for the needs of CS230X based on this [Git tutorial] (https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class) and this [Github starter course] (https://github.com/classroom-resources/github-starter-course). 
 
 ## :octocat: Git and GitHub
 
