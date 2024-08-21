@@ -4,10 +4,18 @@
 
 This tutorial has been adapted by Catherine Delcourt for the needs of CS230X based on this [Git tutorial](https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class) and this [Github starter course](https://github.com/classroom-resources/github-starter-course). 
 
-## :octocat: Git and GitHub
+## 👩‍💻 Git
 
 Git is a **distributed Version Control System (VCS)**, which means it is a useful tool for easily tracking changes to your code, collaborating, and sharing. With Git you can track the changes you make to your project so you always have a record of what you’ve worked on and can easily revert back to an older version if need be. It also makes working with others easier—groups of people can work together on the same project and merge their changes into one final source!
 
+You will need Git installed for this class. You may already have Git installed so let's check! Open Terminal if you are on a Mac, or PowerShell if you are on a Windows machine, and type:
+
+```
+git version
+```
+
+
+## :octocat: GitHub
 GitHub is a way to use the same power of Git all online with an easy-to-use interface. It’s used across the software world and beyond to collaborate and maintain the history of projects.
 
 GitHub is home to some of the most advanced technologies in the world. Whether you're visualizing data or building a new game, there's a whole community and set of tools on GitHub that can get you to the next step. This course starts with the basics of GitHub, but we'll dig into the rest later.
