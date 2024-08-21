@@ -25,7 +25,7 @@ If you don't already have Git installed, you can download Git at www.git-scm.com
 
 ### Basic Git commands
 
-To use Git, developers use specific commands to copy, create, change, and combine code. These commands can be executed directly from the command line or by using an application like GitHub Desktop. Here are some common commands for using Git that will be useful for CS230X:
+To use Git, developers use specific commands to copy, create, change, and combine code. These commands can be executed directly from the command line or by using an application like [GitHub Desktop](https://desktop.github.com/download/). Here are some common commands for using Git that will be useful for CS230X:
 
 - `git clone` creates a local copy of a project that already exists remotely. The clone includes all the project's files, history, and branches.
 
