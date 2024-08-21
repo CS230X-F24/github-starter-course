@@ -14,6 +14,17 @@ You will need Git installed for this class. You may already have Git installed s
 git version
 ```
 
+You should see something like this:
+
+```
+$ git version
+git version 2.33.1
+```
+
+If you don't already have Git installed, you can download Git at www.git-scm.com.
+
+
+
 
 ## :octocat: GitHub
 GitHub is a way to use the same power of Git all online with an easy-to-use interface. It’s used across the software world and beyond to collaborate and maintain the history of projects.
