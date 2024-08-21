@@ -18,7 +18,12 @@ The GitHub flow is a lightweight workflow that allows you to experiment and coll
 
 ### Repositories
 
-A repository is where your project work happens--think of it as your project folder. It contains all of your project’s files and revision history.  You can work within a repository alone or invite others to collaborate with you on those files.
+A repository is where your project work happens--think of it as your project folder. It contains all of your project’s files and revision history.  You can work within a repository alone or invite others to collaborate with you on those files. 
+
+As you work more on GitHub you will have many repositories which may feel confusing at first. Fortunately, your ["GitHub dashboard"](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/about-your-personal-dashboard) helps to easily navigate to your repositories and see useful information about them. Make sure you’re logged in to see it!
+
+Repositories also contain **README**s. You can add a README file to your repository to tell other people why your project is useful, what they can do with your project, and how they can use it. We are using this README to communicate how to learn Git and GitHub with you. 😄 
+To learn more about repositories read ["Creating, Cloning, and Archiving Repositories](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-repositories) and ["About README's"](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-readmes). 
 
 ### Cloning 
 
@@ -30,16 +35,10 @@ To learn more about cloning, read ["Cloning a Repository"](https://docs.github.c
 
 Once you have a commit or multiple commits that you’re ready to add to your repository, you can use the push command to add those changes to your remote repository. Committing and pushing may feel new at first, but we promise you’ll get used to it 🙂
 
-## 💻 GitHub terms to know 
-
-### Repositories 
-We mentioned repositories already, they are where your project work happens, but let’s talk a bit more about the details of them! As you work more on GitHub you will have many repositories which may feel confusing at first. Fortunately, your ["GitHub dashboard"](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/about-your-personal-dashboard) helps to easily navigate to your repositories and see useful information about them. Make sure you’re logged in to see it!
-
-Repositories also contain **README**s. You can add a README file to your repository to tell other people why your project is useful, what they can do with your project, and how they can use it. We are using this README to communicate how to learn Git and GitHub with you. 😄 
-To learn more about repositories read ["Creating, Cloning, and Archiving Repositories](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-repositories) and ["About README's"](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-readmes). 
-
 > [!CAUTION]
-> CS230X note: You may stop here for the main concepts that will be relevant to your use of Github in CS230X. We will primarily be using Github as a remote repository for your labs and assignments. When you accept a lab or assignment, Github classroom will create automatically create a fork of the template repository (containing the initial README, starter code, and BlueJ package) for your assignment. You will not need to manage branches, pull requests, issues, or interact with Github beyond Github classroom. However, Git/Github is a valuable tool to know for extensive Software Engineering and I would encourage you to explore these resources. 
+> **CS230X note: You may stop here for the main concepts that will be relevant to your use of Github in CS230X.** We will primarily be using Github as a remote repository for your labs and assignments. When you accept a lab or assignment, Github classroom will create automatically create a fork of the template repository (containing the initial README, starter code, and BlueJ package) for your assignment. You will clone each assignment to your local machine, then commit/push incrementally as you work on your assignment. You will **not** need to manage branches, pull requests, issues, or interact with Github beyond Github classroom. However, Git/Github is a valuable tool to know as a programmer, and I would encourage you to explore these resources. 
+
+## 💻 For further reading 
 
 ### Forks
 A fork is another way to copy a repository, but is usually used when you want to contribute to someone else’s project. Forking a repository allows you to freely experiment with changes without affecting the original project and is very popular when contributing to open source software projects!
