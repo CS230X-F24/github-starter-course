@@ -2,7 +2,7 @@
 
 ## 🤓 Course overview
 
-This tutorial has been adapted by Catherine Delcourt for the needs of CS230X based on this [Git tutorial] (https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class) and this [Github starter course] (https://github.com/classroom-resources/github-starter-course). 
+This tutorial has been adapted by Catherine Delcourt for the needs of CS230X based on this [Git tutorial](https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class) and this [Github starter course](https://github.com/classroom-resources/github-starter-course). 
 
 ## :octocat: Git and GitHub
 
