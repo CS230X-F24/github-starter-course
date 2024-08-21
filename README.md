@@ -23,7 +23,19 @@ git version 2.33.1
 
 If you don't already have Git installed, you can download Git at www.git-scm.com.
 
+### Basic Git commands
 
+To use Git, developers use specific commands to copy, create, change, and combine code. These commands can be executed directly from the command line or by using an application like GitHub Desktop. Here are some common commands for using Git that will be useful for CS230X:
+
+- `git clone` creates a local copy of a project that already exists remotely. The clone includes all the project's files, history, and branches.
+
+- `git add` stages a change. Git tracks changes to a developer's codebase, but it's necessary to stage and take a snapshot of the changes to include them in the project's history. This command performs staging, the first part of that two-step process. Any changes that are staged will become a part of the next snapshot and a part of the project's history. Staging and committing separately gives developers complete control over the history of their project without changing how they code and work.
+
+- `git commit` saves the snapshot to the project history and completes the change-tracking process. In short, a commit functions like taking a photo. Anything that's been staged with git add will become a part of the snapshot with git commit.
+
+- `git push` updates the remote repository with any commits made locally to a branch.
+
+- `git status` shows the status of changes as untracked, modified, or staged.
 
 
 ## :octocat: GitHub
