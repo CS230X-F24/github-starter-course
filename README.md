@@ -37,6 +37,33 @@ To use Git, developers use specific commands to copy, create, change, and combin
 
 - `git status` shows the status of changes as untracked, modified, or staged.
 
+### Example usage of Git to update a remote repository
+
+If you have an updated file (ex: README.md) then you need to add it to the staging area. The staging area is where you put files before you commit them. 
+
+`git add README.md`
+
+Confirm the file is staged:
+
+`git status`
+
+You should get output similar to the following, and the filename should be in green text.
+
+```
+On branch main
+Changes to be committed:
+(use "git restore --staged <file>..." to unstage)
+modified:   README.md
+```
+
+Now commit the staged file, and include a message that describes the change you made. Make sure you surround the message in double quotes (“).
+
+`git commit -m "Updated the README file"`
+
+The change has been committed to your branch, but your branch and its commits are still only available on your computer. No one else has access to them yet. Push your update to the remote repository:
+
+`git push`
+
 
 ## :octocat: GitHub
 GitHub is a way to use the same power of Git all online with an easy-to-use interface. It’s used across the software world and beyond to collaborate and maintain the history of projects.
